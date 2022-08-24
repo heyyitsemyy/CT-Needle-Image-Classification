@@ -1,6 +1,6 @@
-# MRI-Classification
+# CT Needle Image Classification
 
-Goal: Create a Convolutional Neural Network to classify MRI images with pin-tips.
+Goal: Create a Convolutional Neural Network to classify CT images with pin-tips.
 
 <img width="469" alt="Screen Shot 2022-08-15 at 12 26 02 PM" src="https://user-images.githubusercontent.com/61388896/184675211-27455420-13e8-4058-8393-52c192b2001d.png">
 
